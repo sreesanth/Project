@@ -1,0 +1,167 @@
+.fb_head
+{
+	background-color: #3b5998;
+	width: 110%;
+    height: 120px;   
+}
+
+.hed
+{
+color: white;
+font-size: 50px;
+font-family: Arial black;
+
+}
+.fb_back
+{
+	background-color: #ebeef4;
+	height: 100%;
+	width: 108%;
+}
+.ep
+{
+	color: white;
+	font-size: 16px;
+}
+.create
+{
+font-size: 40px;
+}
+.free
+{
+font-size: 60px;
+}
+.you
+{
+font-size: 30px;
+}
+#button
+{
+	background-color: #4e69a2;
+	color: white;
+}
+
+.para
+{
+	font-size: 30px;
+    color: #23355b;
+  
+}
+.tx
+{
+	font-size: 25px;
+	height: 60px;
+
+}
+.p
+{
+font-size: 14px;
+}
+.select
+{
+	width: 20%;
+	height: 4%;
+}
+#btn 
+{
+	
+	width: 20px;
+	height: 20px;
+}
+.gndr
+{
+	font-size: 25px;
+}
+#sign
+{
+	font-size: 25px;
+	height: 45px;
+}
+.img
+{
+	width: 780px;
+}
+.fb_login
+{
+	font-size: 50px;
+}
+.err_box
+{
+	border: 5px;
+	background-color: white;
+	border-radius: 10px;
+}
+.hm_hd
+{
+	font-size: 22px;
+	color: #3b5998;
+}
+.hm_login
+{
+	font-size: 16px;
+}
+.hm_img
+{
+	height: 75px;
+	width:75px;
+}
+.wl_box
+{
+	padding-bottom: 2px;
+	border: 5px;
+	background-color: white;
+	border-radius: 5px;
+	
+	
+
+}
+.wl2_box
+{
+	border-collapse: separate;
+	border-spacing: 40px 10px;
+	border: 1;
+	background-color: white;
+	border-radius: 5px;
+	height: 70%;
+	width: 100%;
+
+
+}
+.wl3_box
+{
+	
+	border: 5px;
+	background-color: white;
+	border-radius: 5px;
+	height: 90%;
+	width: 20%;
+}
+#news_feed
+{
+	background-color: white;
+}
+#srch_font
+{
+	font-size: 30px;
+}
+.feed_fontsize
+{
+	font-size: 23px;
+
+}
+.feed_sz
+{
+	font-size: 24px;
+}
+#txt_size
+{
+	width: 75%;
+	height: 75%;
+}
+.txd
+{
+	width: 85px;
+	height: 35px;
+	font-size: 20px;
+
+}
