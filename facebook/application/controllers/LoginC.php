@@ -4,6 +4,7 @@
 	*/
 	class LoginC extends CI_Controller
 	{
+        /////////// Call Login Service \\\\\\\\\\\\\\
 		public function loginController()
 		{
 			$user['email']=$this->input->post("email");
